@@ -1,6 +1,46 @@
 
+# Git Repository Analysis & Visualization
 
-##
+A small collection of experiments exploring Git repository structure, source code analysis, and project visualization.
+
+## Tools explored
+
+| Tool | Purpose |
+|---|---|
+| [GitReverse](https://www.gitreverse.com/) | Explore and analyze repository structure and relationships. |
+| [GitDiagram](https://gitdiagram.com/?mode=website) | Generate visual diagrams representing repository architecture. |
+| [Gitingest](https://gitingest.com/) | Extract and consolidate repository contents into a format suitable for code analysis and AI-assisted exploration. |
+
+## Objectives
+
+- Understand how existing repositories are structured.
+- Explore relationships between files, modules, and components.
+- Visualize project architecture.
+- Experiment with automated code analysis.
+- Improve technical documentation and repository organization.
+
+## Evidence & Screenshots
+
+Screenshots document the tools, their interfaces, and the results obtained during experimentation.
+
+## Notes
+
+This repository documents practical exploration and learning. The tools have different purposes and provide complementary perspectives on source code and repository organization.
+
+Analysis results should be reviewed and validated against the original source code.
+
+## Learning focus
+
+Git · Repository Structure · Source Code Analysis · Software Architecture · Technical Documentation
+
+---
+
+**Status:** Learning / Experimentation  
+**Branch:** `main`
+
+
+
+##  
 
 
 https://www.gitreverse.com/
